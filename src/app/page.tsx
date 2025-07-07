@@ -14,12 +14,7 @@ const page = () => {
     <div>
       <section
         className="flex flex-col items-center justify-center w-full min-h-screen bg-black bg-gradient-radial from-neutral-900 via-black to-neutral-900 overflow-auto pt-20 pb-36 overflow-x-hidden"
-        style={{
-          backgroundColor: "#000000",
-          opacity: 0.8,
-          backgroundImage: "radial-gradient(#d9d9e3 0.5px, #000000 0.5px)",
-          backgroundSize: "10px 10px",
-        }}
+        
       >
         {/* NAVBAR */}
         <FloatingNavDemo />

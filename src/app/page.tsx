@@ -12,10 +12,7 @@ import { SpotlightPreview } from "./components/Spotlight";
 const page = () => {
   return (
     <div>
-      <section
-        className="flex flex-col items-center justify-center w-full min-h-screen bg-black bg-gradient-radial from-neutral-900 via-black to-neutral-900 overflow-auto pt-20 pb-36 overflow-x-hidden"
-        
-      >
+      <section className="flex flex-col items-center justify-center w-full min-h-screen bg-black bg-gradient-radial from-neutral-900 via-black to-neutral-900 overflow-auto pt-20 pb-36 overflow-x-hidden">
         {/* NAVBAR */}
         <FloatingNavDemo />
         {/* HERO SECTION */}
@@ -36,9 +33,14 @@ const page = () => {
               link="https://intern-project-rprx.onrender.com/"
             />
             <AnimatedPinDemo
-              source="Screenshot 2025-05-21 193848.png"
-              title="PERSONAL PORTFOLIO"
-              link="https://krishna-prasad-ceo.github.io/Portfolio.github.io/"
+              source="Screenshot 2025-07-10 065438.png"
+              title="Online Learning Platform"
+              link="https://myprojectlink.com"
+            />
+            <AnimatedPinDemo
+              source="Screenshot 2025-07-07 061811.png"
+              title="AUTOMATIC Portfolio Generator"
+              link="http://streak.infy.uk/"
             />
             <AnimatedPinDemo
               source="Screenshot 2025-07-07 061646.png"
@@ -48,12 +50,12 @@ const page = () => {
             <AnimatedPinDemo
               source="Screenshot 2025-07-07 071635.png"
               title="Aceternity Portfolio"
-              link="https://myprojectlink.com"
+              link="https://modern-uiux-ysbp.vercel.app/"
             />
             <AnimatedPinDemo
-              source="Screenshot 2025-07-07 061811.png"
-              title="AUTOMATIC Portfolio Generator"
-              link="http://streak.infy.uk/"
+              source="Screenshot 2025-05-21 193848.png"
+              title="PERSONAL PORTFOLIO"
+              link="https://krishna-prasad-ceo.github.io/Portfolio.github.io/"
             />
           </div>
         </div>

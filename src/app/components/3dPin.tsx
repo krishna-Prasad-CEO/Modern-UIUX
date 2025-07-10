@@ -12,7 +12,7 @@ export function AnimatedPinDemo({ title, link, source }: AnimatedPinDemoProps) {
   return (
     <div className="flex items-center justify-center m-5">
       <PinContainer title={link} href={link}>
-        <div className="flex basis-full flex-col p-4 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-[20rem] ">
+        <div className="flex basis-full flex-col tracking-tight text-slate-100/50 sm:basis-1/2 w-[25rem] h-[20rem] p-2">
           <h3 className="max-w-xs !pb-2 !m-0 font-bold  text-base text-slate-100">
             {title}
           </h3>

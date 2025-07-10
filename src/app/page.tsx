@@ -14,7 +14,9 @@ const page = () => {
     <div>
       <section className="flex flex-col items-center justify-center w-full min-h-screen bg-black bg-gradient-radial from-neutral-900 via-black to-neutral-900 overflow-auto pt-20 pb-36 overflow-x-hidden">
         {/* NAVBAR */}
-        <FloatingNavDemo />
+        <div className="hidden md:w-full">
+          <FloatingNavDemo />
+        </div>
         {/* HERO SECTION */}
         <GridBackgroundDemo />
         <SpotlightPreview />
@@ -38,15 +40,16 @@ const page = () => {
               link="https://myprojectlink.com"
             />
             <AnimatedPinDemo
-              source="Screenshot 2025-07-07 061811.png"
-              title="AUTOMATIC Portfolio Generator"
-              link="http://streak.infy.uk/"
-            />
-            <AnimatedPinDemo
               source="Screenshot 2025-07-07 061646.png"
               title="STUDENTS ACHIEVEMENT TRACKER"
               link="http://streak.infy.uk/"
             />
+            <AnimatedPinDemo
+              source="Screenshot 2025-07-07 061811.png"
+              title="AUTOMATIC Portfolio Generator"
+              link="https://www.linkedin.com/posts/krishna-prasad-s-59133a280_webdevelopment-frontenddevelopment-portfoliowebsite-activity-7316082002170978304-J3kA?utm_source=share&utm_medium=member_android&rcm=ACoAAERknb0BJMfJ9csYef4RWZcXFcnIXtjHj0s"
+            />
+
             <AnimatedPinDemo
               source="Screenshot 2025-07-07 071635.png"
               title="Aceternity Portfolio"

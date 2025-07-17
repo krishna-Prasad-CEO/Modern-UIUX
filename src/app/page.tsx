@@ -35,16 +35,16 @@ const page = () => {
               link="https://intern-project-rprx.onrender.com/"
             />
             <AnimatedPinDemo
+              source="Screenshot 2025-07-10 065438.png"
+              title="Online Learning Platform"
+              link="https://master-class-lgj9.vercel.app/"
+            />
+            <AnimatedPinDemo
               source="Screenshot 2025-07-12 073936.png"
               title="MOBILE APP - Social Media Application"
               link="https://www.linkedin.com/posts/krishna-prasad-s-59133a280_reactnative-firstapp-learningjourney-activity-7349618423913467904-2kUu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERknb0BJMfJ9csYef4RWZcXFcnIXtjHj0s"
             />
 
-            <AnimatedPinDemo
-              source="Screenshot 2025-07-10 065438.png"
-              title="Online Learning Platform"
-              link="https://www.linkedin.com/posts/krishna-prasad-s-59133a280_webdevelopment-fullstackdevelopment-nextjs-activity-7348744514083176449-h7W8?utm_source=share&utm_medium=member_android&rcm=ACoAAERknb0BJMfJ9csYef4RWZcXFcnIXtjHj0s"
-            />
             <AnimatedPinDemo
               source="Screenshot 2025-07-07 061646.png"
               title="STUDENTS ACHIEVEMENT TRACKER"

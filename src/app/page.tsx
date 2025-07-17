@@ -30,7 +30,7 @@ const page = () => {
               link="https://ai-trainer-flame.vercel.app/"
             />
             <AnimatedPinDemo
-              source="image.png"
+              source="Screenshot 2025-07-17 130441.png"
               title="RealTime CHAT APP"
               link="https://intern-project-rprx.onrender.com/"
             />
